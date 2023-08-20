@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+/* Header */
+
+.head{
+  text-align: center;
+}
+
+
+/*home*/
+
+.form{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  height: 70px;
+  border-radius: 17px;
+}
+.setting{
+  text-align: center;
+}
+
+
+
+
+   /* App*/
+.app{
+ 
+  margin: 20px;
+  border: 5px solid black;
+  padding: 30px;
+  background-color: rgba(148, 162, 162, 0.34);
+  
+ 
+
+
+
+}
+
+/*Footer*/
+
+.foot{
+  text-align: center;
+}
+
+/* Error*/
+.error{
+  color: red;
+  font-size: larger;
+}
+
+
+.resbtn{
+  width: 300px;
+  height: 50px;
+  border-radius: 7px;
+  background-color: rgb(54, 54, 220);
+  margin-top: 80px;
+  margin-left: 900px;
+  color: white;
+}
